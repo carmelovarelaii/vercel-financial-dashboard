@@ -36,6 +36,7 @@ export default function Page() {
             width={560}
             height={620}
             className="block md:hidden"
+            alt="Screenshots of the dashboard project showing mobile version"
           />
         </div>
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
